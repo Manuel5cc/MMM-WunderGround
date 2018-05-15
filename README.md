@@ -215,8 +215,8 @@ The following properties can be configured:
 		</tr>
 		<tr>
 			<td><code>windunits</code></td>
-			<td>Which units to use for windspeed (in this fork setting "mph" will return km/h speed)<br>
-				<br><b>Possible values:</b> <code>"mph" or "bft"</code>
+			<td>Which units to use for windspeed <br>
+				<br><b>Possible values:</b> <code>"kph" or "bft"</code>
 				<br><b>Default value:</b>  <code>"bft"</code>
 			</td>
 		</tr>
