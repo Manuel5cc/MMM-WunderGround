@@ -224,8 +224,8 @@ Module.register("MMM-WunderGround", {
 
 
             var windIcon = document.createElement("td");
-            if (this.config.windunits == "mph") {
-                windIcon.innerHTML = this.windSpeedMph + "<sub> km/h</sub>";
+            if (this.config.windunits == "kph") {
+                windIcon.innerHTML = this.windSpeedMph + "<sup> km/h</sup>";
             } else {
                 windIcon.className = "wi " + this.windSpeed;
             }
