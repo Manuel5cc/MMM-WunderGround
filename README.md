@@ -162,6 +162,7 @@ The following properties can be configured:
 			<td>The language of the days.<br>
 				<br><b>Possible values:</b> <code>en</code>, <code>nl</code>, <code>ru</code>, etc ...
 				<br><b>Default value:</b> uses value of <i>config.language</i>
+				<br><b>Note:</b> for Spanish you must use <code>sp</code> since <code>es</code> will not work.
 			</td>
 		</tr>
 		<tr>
